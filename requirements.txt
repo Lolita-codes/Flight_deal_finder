@@ -1,0 +1,9 @@
+APIs Required
+Google Sheet Data Management = 'https://sheety.co/'
+Kiwi Partners Flight Search API (Free Signup) = 'https://partners.kiwi.com/'
+Tequila Flight Search API Documentation = 'https://tequila.kiwi.com/portal/docs/tequila_api'
+Twilio SMS API = 'https://www.twilio.com/docs/sms'
+
+requests~=2.24.0
+twilio~=7.9.3
+python-dotenv~=0.20.0
